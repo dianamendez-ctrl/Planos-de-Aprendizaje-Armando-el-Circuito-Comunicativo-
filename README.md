@@ -7,7 +7,7 @@
 
 ## 🎯 1️⃣ Propósito de la actividad
 
-> Visualizar los modelos de]** comunicación como si fueran planos eléctricos, comprendiendo cómo fluye el aprendizaje en entornos virtuales.  
+> Visualizar los modelos de comunicación como si fueran planos eléctricos, comprendiendo cómo fluye el aprendizaje en entornos virtuales.  
 >  
 > Diseñaremos un **circuito comunicativo** identificando roles, rutas, interferencias y conexiones reales en nuestro contexto educativo.
 
