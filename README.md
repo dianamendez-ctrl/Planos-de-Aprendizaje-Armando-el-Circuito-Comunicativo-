@@ -53,11 +53,11 @@ Entre los principales obstáculos se encuentran las fallas de conexión a intern
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**       |      Docente o estudiante que transmite la información      |                           Explica un tema, comparte instrucciones, realiza una presentación o envía un mensaje.                               |     👩‍🏫📢                 |
+| 👂 **Receptor**     |       Estudiantes o participantes de la clase     |    Reciben la información, la interpretan y la utilizan para realizar actividades o responder preguntas.                                                      |    👨‍🎓👩‍🎓                  |
+| 🌐 **Canal**        |       Medio por el cual circula el mensaje     |    Google Meet, Moodle, WhatsApp, correo electrónico, Microsoft Teams, foros virtuales.             |              💻📱📧        |
+| ⚠️ **Ruido**        |       Factores que dificultan la comunicación     |   Problemas de internet, micrófono defectuoso, distracciones en casa, falta de claridad en las instrucciones, exceso de información. |              📶❌🔇        |
+| 🔁 **Retroalimentación** |   Respuesta del receptor al emisor   |Preguntas en clase, comentarios en el chat, entrega de tareas, participación en foros, encuestas o evaluaciones. Permite verificar que el mensaje fue comprendido. |                     💬✅ |
 
 ---
 
