@@ -1,7 +1,7 @@
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Patrulla  [Nombre del Grupo]**
+**Plano comunicativo – Patrulla Halcones Innovadores**
 
 ---
 
@@ -15,37 +15,36 @@
 
 ## 👥 2️⃣ Integrantes del grupo
 
-| Nombre | Rol en el grupo | Correo / Contacto |
-|--------|---------------|-------------------|
-|Briseida|               |                   |
-|        |               |                   |
-|        |               |                   |
-|        |               |                   |
+ Nombre: Diana Mendez
 
 ---
 
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
 ### 📡 Modelo Lineal
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:En este modelo la comunicación se desarrolla en una sola dirección. El docente transmite la información y los estudiantes la reciben, con poca o ninguna retroalimentación durante el proceso.**  
+- **Ejemplo en nuestro contexto:Una clase virtual por Zoom o Microsoft Teams donde el profesor explica un tema mediante una presentación y los estudiantes permanecen en silencio tomando apuntes, dejando las preguntas para el final o sin realizar intervenciones.**  
 
 ### 🔄 Modelo Interactivo
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:La comunicación ocurre en dos direcciones, permitiendo que el docente envíe información y los estudiantes respondan mediante preguntas, comentarios o actividades. Existe retroalimentación que mejora la comprensión del mensaje.**  
+- **Ejemplo en nuestro contexto:Durante una videoconferencia, el profesor explica un contenido y los estudiantes participan utilizando el chat, respondiendo encuestas en línea o realizando preguntas que son atendidas en tiempo real.**  
 
 ### 🧠 Modelo Constructivista
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:La comunicación se centra en la construcción conjunta del conocimiento. El docente actúa como guía y facilitador, mientras que los estudiantes participan activamente, comparten experiencias, colaboran y generan nuevos aprendizajes.**  
+- **Ejemplo en nuestro contexto:Los estudiantes trabajan en equipos mediante salas virtuales, foros de discusión o documentos colaborativos para analizar un problema, intercambiar ideas y elaborar una propuesta conjunta, mientras el docente orienta el proceso de aprendizaje.**  
 
 ---
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
-- 📱 ¿Qué medios utilizamos?  
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?
+En el proceso educativo virtual, tanto docentes como estudiantes asumimos el papel de emisores y receptores. El docente actúa como emisor al explicar contenidos, orientar actividades y brindar retroalimentación, mientras que los estudiantes son receptores de esa información. A su vez, los estudiantes se convierten en emisores cuando participan en foros, realizan preguntas, exponen sus ideas o presentan trabajos, y el docente pasa a ser receptor de esos aportes.
 
+- 📱 ¿Qué medios utilizamos?
+Para comunicarnos utilizamos diversos medios tecnológicos, como plataformas de videoconferencia (Zoom, Microsoft Teams o Google Meet), aulas virtuales (Moodle o Google Classroom), correos electrónicos, mensajería instantánea como WhatsApp y herramientas colaborativas en línea. Estos recursos facilitan el intercambio de información y la interacción entre docentes y estudiantes.
+
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+Entre los principales obstáculos se encuentran las fallas de conexión a internet, problemas técnicos con los dispositivos, dificultades para comprender los mensajes escritos, la falta de participación de algunos estudiantes y las distracciones del entorno. Además, la ausencia de contacto presencial puede limitar la interpretación de gestos y expresiones, afectando la claridad de la comunicación.
 ---
 
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
